@@ -1,5 +1,5 @@
 # VERSION 0.7.2
-FROM keboola/base-php56
+FROM keboola/base-php70
 MAINTAINER Ondrej Vana <ondrej.vana@keboola.com>
 
 WORKDIR /home
